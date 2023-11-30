@@ -29,7 +29,7 @@ function LoginForm() {
         <div style={{display:'flex', alignItems:'center', justifyContent: 'flex-end', marginTop: '1rem'}}>
         <div style={{display: 'flex', width: '10rem', borderRadius: "30px"}}>
         <Button>
-        <Link to="/teacherregister">
+        <Link to="/studentregister">
           Register as student
         </Link>
         </Button>
